@@ -1,0 +1,54 @@
+{
+  "common": {
+    "wallet": "Wallet",
+    "trade": "Trade",
+    "staking": "Staking",
+    "settings": "Settings",
+    "send": "Send",
+    "receive": "Receive",
+    "buy": "Buy",
+    "sell": "Sell",
+    "swap": "Swap",
+    "balance": "Balance",
+    "totalBalance": "Total Balance",
+    "marketData": "Market Data",
+    "socialLinks": "Social Links",
+    "securityAnalysis": "Security Analysis",
+    "version": "Version"
+  },
+  "settings": {
+    "appSettings": "App Settings",
+    "darkMode": "Dark Mode",
+    "language": "Language",
+    "about": "About",
+    "telegramChannel": "Telegram Channel",
+    "twitter": "Twitter"
+  },
+  "crypto": {
+    "price": "Price",
+    "change24h": "24h Change",
+    "marketCap": "Market Cap",
+    "volume24h": "24h Volume",
+    "circulatingSupply": "Circulating Supply",
+    "viewOnCoinMarketCap": "View on CoinMarketCap",
+    "viewOnCoinGecko": "View on CoinGecko"
+  },
+  "trade": {
+    "from": "From",
+    "to": "To",
+    "amount": "Amount",
+    "priceImpact": "Price Impact",
+    "minimumReceived": "Minimum Received",
+    "networkFee": "Network Fee",
+    "swapNow": "Swap Now"
+  },
+  "staking": {
+    "totalStaked": "Total Staked",
+    "totalRewards": "Total Rewards",
+    "stakingOptions": "Staking Options",
+    "apy": "APY",
+    "minStake": "Min Stake",
+    "duration": "Duration",
+    "stakeNow": "Stake Now"
+  }
+} 

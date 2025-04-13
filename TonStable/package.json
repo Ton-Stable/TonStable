@@ -1,0 +1,38 @@
+{
+  "name": "tonstable",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@gorhom/bottom-sheet": "^5.1.2",
+    "@react-navigation/bottom-tabs": "^7.3.10",
+    "@react-navigation/native": "^7.1.6",
+    "@react-navigation/native-stack": "^7.3.10",
+    "@shopify/flash-list": "^1.8.0",
+    "@ton/core": "^0.60.1",
+    "@ton/crypto": "^3.3.0",
+    "@ton/ton": "^15.2.1",
+    "@tonconnect/sdk": "^3.1.0",
+    "expo": "~52.0.43",
+    "expo-status-bar": "~2.0.1",
+    "react": "18.3.1",
+    "react-native": "0.76.9",
+    "react-native-chart-kit": "^6.12.0",
+    "react-native-qrcode-svg": "^6.3.15",
+    "react-native-reanimated": "^3.17.3",
+    "react-native-safe-area-context": "^5.3.0",
+    "react-native-screens": "^4.10.0",
+    "react-native-svg": "^15.11.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@types/react": "~18.3.12",
+    "typescript": "^5.3.3"
+  },
+  "private": true
+}

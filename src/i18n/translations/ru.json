@@ -1,0 +1,54 @@
+{
+  "common": {
+    "wallet": "Кошелек",
+    "trade": "Торговля",
+    "staking": "Стейкинг",
+    "settings": "Настройки",
+    "send": "Отправить",
+    "receive": "Получить",
+    "buy": "Купить",
+    "sell": "Продать",
+    "swap": "Обмен",
+    "balance": "Баланс",
+    "totalBalance": "Общий баланс",
+    "marketData": "Рыночные данные",
+    "socialLinks": "Социальные сети",
+    "securityAnalysis": "Анализ безопасности",
+    "version": "Версия"
+  },
+  "settings": {
+    "appSettings": "Настройки приложения",
+    "darkMode": "Темная тема",
+    "language": "Язык",
+    "about": "О приложении",
+    "telegramChannel": "Telegram канал",
+    "twitter": "Twitter"
+  },
+  "crypto": {
+    "price": "Цена",
+    "change24h": "Изменение за 24ч",
+    "marketCap": "Капитализация",
+    "volume24h": "Объем за 24ч",
+    "circulatingSupply": "В обращении",
+    "viewOnCoinMarketCap": "Смотреть на CoinMarketCap",
+    "viewOnCoinGecko": "Смотреть на CoinGecko"
+  },
+  "trade": {
+    "from": "Из",
+    "to": "В",
+    "amount": "Количество",
+    "priceImpact": "Влияние на цену",
+    "minimumReceived": "Минимум к получению",
+    "networkFee": "Комиссия сети",
+    "swapNow": "Обменять сейчас"
+  },
+  "staking": {
+    "totalStaked": "Всего в стейкинге",
+    "totalRewards": "Всего наград",
+    "stakingOptions": "Варианты стейкинга",
+    "apy": "Годовая доходность",
+    "minStake": "Минимальный стейк",
+    "duration": "Длительность",
+    "stakeNow": "Застейкать"
+  }
+} 

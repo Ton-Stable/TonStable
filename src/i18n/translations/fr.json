@@ -1,0 +1,8 @@
+{
+  "common": {
+    "wallet": "Portefeuille",
+    "send": "Envoyer",
+    "receive": "Recevoir",
+    "settings": "Paramètres"
+  }
+} 

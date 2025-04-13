@@ -1,0 +1,14 @@
+node_modules
+.DS_Store
+dist
+builds
+.git.bak
+*.aar
+*.dylib
+*.dll
+*.dat
+**/app-builder*
+**/Electron.app
+**/electron/dist
+.expo
+
