@@ -1,26 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <title>TonStable Wallet</title>
-    <meta http-equiv="refresh" content="0;url=dist/index.html">
-    <style>
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+        /* These styles make the body full-height */
+        html,
         body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 20px;
-            text-align: center;
+            height: 100%;
         }
-        .loading {
-            margin-top: 100px;
+        /* These styles disable body scrolling if you are using <ScrollView> */
+        body {
+            overflow: hidden;
+        }
+        /* These styles make the root element full-height */
+        #root {
+            display: flex;
+            height: 100%;
+            flex: 1;
         }
     </style>
 </head>
 <body>
-    <div class="loading">
-        <h1>Loading TonStable Wallet...</h1>
-        <p>If you are not redirected automatically, <a href="dist/index.html">click here</a>.</p>
-    </div>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+        You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"></div>
+    <script src="dist/_expo/static/js/web/AppEntry-329f6c99ef98537c00d6c2606bbfdf32.js" defer></script>
 </body>
 </html> 
